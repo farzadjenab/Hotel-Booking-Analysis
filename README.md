@@ -67,23 +67,3 @@ Create a new Pull Request.
 License
 This project is licensed under the MIT License.
 
-
-content_copy
-text
-
----
-
-### Project Name Rationale:
-The name **Hotel Booking Analysis** is straightforward and descriptive, perfectly encapsulating the goal of the project: analyzing hotel booking data. It's clear and direct, making it easy for potential collaborators and users to immediately understand the focus of the project.
-
----
-
-Feel free to adjust the details to fit your project's context, but this template will help structure the README file and present the project in a professional and easy-to-understand manner.
-
-
-autorenew
-
-thumb_up
-
-thumb_down
-
