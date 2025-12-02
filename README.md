@@ -45,7 +45,7 @@ The dataset was cleaned by:
 
 
 bash
-   git clone https://github.com/your-username/Hotel-Booking-Analysis.git
+   git clone https://github.com/farzadjenab/Hotel-Booking-Analysis.git
    
    
 2. Install the necessary libraries:
@@ -71,5 +71,4 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
 
-thumb_down
 
