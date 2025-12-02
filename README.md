@@ -35,6 +35,10 @@ The dataset was cleaned by:
 - **Matplotlib & Seaborn**: For creating visualizations.
 - **Jupyter Notebook**: For interactive code execution and analysis.
 
+# Power BI Model
+
+   You can see a model of Power BI that upload with .pbix format 
+
 ## How to Run the Project
 
 1. Clone this repository:
