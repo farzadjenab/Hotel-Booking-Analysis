@@ -42,7 +42,9 @@ The dataset was cleaned by:
 ## How to Run the Project
 
 1. Clone this repository:
-```bash
+
+
+bash
    git clone https://github.com/your-username/Hotel-Booking-Analysis.git
    
    
@@ -68,26 +70,6 @@ Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
-License
-This project is licensed under the MIT License.
-
-
-content_copy
-text
-
----
-
-### Project Name Rationale:
-The name **Hotel Booking Analysis** is straightforward and descriptive, perfectly encapsulating the goal of the project: analyzing hotel booking data. It's clear and direct, making it easy for potential collaborators and users to immediately understand the focus of the project.
-
----
-
-Feel free to adjust the details to fit your project's context, but this template will help structure the README file and present the project in a professional and easy-to-understand manner.
-
-
-autorenew
-
-thumb_up
 
 thumb_down
 
